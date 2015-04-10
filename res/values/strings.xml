@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">JenkinsToday</string>
-    <string name="hello_world">Hello everyone!!!</string>
+    <string name="hello_world">Hello there!!!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
